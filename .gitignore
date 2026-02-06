@@ -1,0 +1,38 @@
+# Data files (too large for git)
+data/
+*.csv
+*.xlsx
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.geojson
+*.gpkg
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# QGIS
+*.qgz~
+*.qgs~
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
